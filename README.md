@@ -141,7 +141,7 @@
 ## 7. Entrega Final
 
 ### 7.1 Arquivos a Submeter
-- **Slides**: PowerPoint (.pptx), PDF ou link editável (Google Slides).  
+- **Slides**: PowerPoint (.pptx), PDF).  
 - **Arquivo "Questoes.pdf"**:  
   - 3 questões numeradas.  
   - Alternativas A–D.  
